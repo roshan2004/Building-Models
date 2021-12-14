@@ -1,0 +1,11 @@
+
+;;;;;; Graphene
+
+[ moleculetype ]
+; molname    nrexcl
+  GRA           1
+
+
+[ atoms ]
+; nr type resnr residue atom cgnr charge mass
+
